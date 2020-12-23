@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 changes made here
-=======
 todays coding at 12 50
-day after 
->>>>>>> firstBranch
+day after
